@@ -1,0 +1,6 @@
+C:\Users\hanlu\RiderProjects\HandleException\HandleException\bin\Debug\HandleException.exe
+C:\Users\hanlu\RiderProjects\HandleException\HandleException\bin\Debug\HandleException.pdb
+C:\Users\hanlu\RiderProjects\HandleException\HandleException\obj\Debug\HandleException.csprojAssemblyReference.cache
+C:\Users\hanlu\RiderProjects\HandleException\HandleException\obj\Debug\HandleException.csproj.CoreCompileInputs.cache
+C:\Users\hanlu\RiderProjects\HandleException\HandleException\obj\Debug\HandleException.exe
+C:\Users\hanlu\RiderProjects\HandleException\HandleException\obj\Debug\HandleException.pdb

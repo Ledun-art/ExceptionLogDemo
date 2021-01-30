@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.HandleException.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\hanlu\RiderProjects\HandleException\.idea\.idea.HandleException\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
